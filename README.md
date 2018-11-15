@@ -1,1 +1,1 @@
-Simple calculator using jquery and bootstrap. calc.html and calc.js must be in the same directory to work. 
+Simple calculator using jquery and bootstrap. Practicing concepts learned from this excellent [javascript and jquery book.](http://javascriptbook.com/buy/)
