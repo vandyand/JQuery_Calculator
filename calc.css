@@ -1,4 +1,20 @@
-.nopadding{
+/*Overwrite bootstrap's default column padding and margin*/
+.no-padding{
   padding: 0 !important;
   margin: 0 !important;
+}
+/*Size elements*/
+span{
+  height:6.25%;
+  width:100%;
+}
+
+.display-bar{
+  height:12.5%;
+  width:100%;
+}
+
+.input-btn{
+  height:12.5%;
+  width:25%;
 }
